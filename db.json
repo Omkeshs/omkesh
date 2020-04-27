@@ -1,0 +1,84 @@
+[
+  {
+    "sectionId": 1,
+    "sectionSequenceNumber": 0,
+    "sectionName": "Datatypes",
+    "studyMaterial": "Yes",
+    "questions": [
+      {
+        "questionId": 0,
+        "questionSequenceNumber": 0,
+        "questionType": "mcq",
+        "questionTitle": "Which of the following is not a integer type in Go?",
+        "isCorrect": false
+      },
+      {
+        "questionId": 0,
+        "questionSequenceNumber": 0,
+        "questionType": "mcq",
+        "questionTitle": "var a int\r\nAbove syntax is true or false?",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "sectionId": 2,
+    "sectionSequenceNumber": 0,
+    "sectionName": "ARRAY",
+    "studyMaterial": "Yes",
+    "questions": [
+      {
+        "questionId": 0,
+        "questionSequenceNumber": 0,
+        "questionType": "mcq",
+        "questionTitle": "Array is collection of variables of the different type,Is it true or false?",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "sectionId": 3,
+    "sectionSequenceNumber": 0,
+    "sectionName": "Slices",
+    "studyMaterial": "",
+    "questions": [
+      {
+        "questionId": 0,
+        "questionSequenceNumber": 0,
+        "questionType": "mcq",
+        "questionTitle": "Which of the following is correct about slices in Go?",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "sectionId": 4,
+    "sectionSequenceNumber": 0,
+    "sectionName": "Structs",
+    "studyMaterial": "",
+    "questions": [
+      {
+        "questionId": 0,
+        "questionSequenceNumber": 0,
+        "questionType": "mcq",
+        "questionTitle": "Which of the following is correct about structures in Go?",
+        "isCorrect": true
+      }
+    ]
+  },
+  {
+    "sectionId": 11,
+    "sectionSequenceNumber": 0,
+    "sectionName": "test",
+    "studyMaterial": "No",
+    "questions": [
+      {
+        "questionId": 0,
+        "questionSequenceNumber": 0,
+        "questionType": "mcq",
+        "questionTitle": "Is it possible to have multiple tag strings in struct field?\r\n\r\n",
+        "isCorrect": true
+      }
+    ]
+  }
+]
